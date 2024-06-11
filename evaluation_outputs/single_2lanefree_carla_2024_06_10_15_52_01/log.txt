@@ -1,0 +1,7 @@
+***********Localization Module***********
+Actor ID: 111
+mean error for GNSS raw data on x-axis: 0.057751 (meter), mean error for GNSS raw data on y-axis: 0.089181 (meter),mean error for GNSS raw data on yaw : 0.081278 (degree) 
+mean error after data fusion on x-axis: 0.025902 (meter), mean error after data fusion  on y-axis: 0.042803 (meter),mean error after data fusion yaw : 0.129554 (degree) 
+
+***********Kinematics Module***********
+Actor ID: 111
